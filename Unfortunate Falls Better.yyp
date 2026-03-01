@@ -23,6 +23,7 @@
   },
   "name":"Unfortunate Falls Better",
   "resources":[
+    {"id":{"name":"Object23","path":"objects/Object23/Object23.yy",},},
     {"id":{"name":"oBouncy","path":"objects/oBouncy/oBouncy.yy",},},
     {"id":{"name":"oContinueBTN","path":"objects/oContinueBTN/oContinueBTN.yy",},},
     {"id":{"name":"oFriendWalk","path":"objects/oFriendWalk/oFriendWalk.yy",},},
